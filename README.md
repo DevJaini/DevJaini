@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered full-stack applications<br>👯 I’m looking to collaborate on open-source web and AI projects<br>🤝 I’m looking for Full-Stack, Backend, and AI opportunities<br>🌱 I’m currently learning system design and advanced LLM integration<br>💬 Ask me about React, FastAPI, Node.js, AWS, and AI development<br>I love transforming ideas into working products
+🔭 I’m currently working on AI-powered full-stack applications<br>👯 I’m looking to collaborate on open-source web and AI projects<br>🤝 I’m looking for Full-Stack, Backend, and AI opportunities<br>🌱 I’m currently learning system design and advanced LLM integration<br>💬 Ask me about Python, React, FastAPI, Node.js, AWS, and AI development<br>I love transforming ideas into working products
 
 
 ## 🌐 Socials:
