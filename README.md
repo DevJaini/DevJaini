@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered full-stack applications and data-intensive backend systems<br>🗄️ I’m currently building a hands-on <a href="https://github.com/DevJaini/database-administration-lab">Database Administration Lab</a> with Oracle and SQL Server<br>🤝 I’m looking for Full-Stack, Backend, Database, and AI opportunities<br>🌱 I’m currently learning database administration (Oracle, SQL Server), system design, and advanced LLM integration<br>👯 I’m looking to collaborate on open-source web and AI projects<br>💬 Ask me about Python, SQL, PostgreSQL, React, FastAPI, Node.js, AWS, and AI development<br><br>I love transforming ideas into working products, and making the databases behind them fast and reliable.
+🔭 I’m currently working on AI-powered full-stack applications and data-intensive backend systems<br>🤝 I’m looking for Full-Stack, Backend, Database, and AI opportunities<br>🌱 I’m currently learning database administration (Oracle, SQL Server), system design, and advanced LLM integration<br>👯 I’m looking to collaborate on open-source web and AI projects<br>💬 Ask me about Python, SQL, PostgreSQL, React, FastAPI, Node.js, AWS, and AI development<br><br>I love transforming ideas into working products, and making the databases behind them fast and reliable.
 
 ## 🌐 Socials:
 
